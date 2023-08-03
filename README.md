@@ -26,6 +26,4 @@ Feel free to reach out at ```loy.hong.shenggg@gmail.com```.
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=loyhongshenggg&count_private=true&custom_title=Ryan+Cheung's+GitHub+Stats&show_icons=true&theme=radical" />
-
 <p align="center"><a href="https://www.linkedin.com/in/loyhongsheng"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
