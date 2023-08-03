@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fhappy05%2Fart%2FBatch-Script-Collection-Banner-680786884&psig=AOvVaw3snRkLFsW9_xtfgQ22uAFF&ust=1691163714204000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDP0_TpwIADFQAAAAAdAAAAABAE)](https://loy-hongsheng.vercel.app/)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
 ## *Hello There!* 😊
 
