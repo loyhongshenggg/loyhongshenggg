@@ -1,7 +1,5 @@
 <h3 align="center">I'm currently a Penultimate Computer Science Student at NUS. I'm a software engineer who loves working on new projects and picking up new things! 💻☕</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loyhongshenggg" alt="loyhongshenggg" /></a> </p>
-
 - Here's what I'm currently working as: **Part-time Software Engineer with Lee Kuan Yew School of Public Policy (NUS) 🧑🏻‍💻**
 
 - Hoping to learn...: **🍇 AWS 🥝 Docker**
