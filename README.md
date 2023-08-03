@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://loy-hongsheng.vercel.app/)
+
 ## *Hello There!* 😊
 
 I'm currently a Penultimate Computer Science Student at NUS and a software engineer who loves working on new projects and picking up new things! 💻☕
