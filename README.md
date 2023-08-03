@@ -1,10 +1,10 @@
 <h3 align="center">I'm currently a Penultimate Computer Science Student at NUS. I'm a software engineer who loves working on new projects and picking up new things! 💻☕</h3>
 
-- Here's what I'm currently working as: **Part-time Software Engineer with Lee Kuan Yew School of Public Policy (NUS) 🧑🏻‍💻**
+- I'm currently working as: <br /> **Part-time Software Engineer with Lee Kuan Yew School of Public Policy (NUS) 🧑🏻‍💻**
 
-- Hoping to learn...: **🍇 AWS 🥝 Docker**
+- Hoping to learn...: <br /> **🍇 AWS 🥝 Docker 📐 Three.js**
 
-- 📫 How to reach me **loy.hong.shenggg@gmail.com**
+- 📫 How to reach me: <br /> **loy.hong.shenggg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
