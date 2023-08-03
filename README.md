@@ -22,7 +22,7 @@ Feel free to reach out at ```loy.hong.shenggg@gmail.com```.
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,firebase,nodejs,express,mongodb" /> <br/>
-    <img src="https://skillicons.dev/icons?i=,tailwind,nextjs, postgres,mysql,flutter,firebase,figma,postman" />
+    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,postgres,mysql,flutter,firebase,figma,postman" />
   </a>
 </p>
 
