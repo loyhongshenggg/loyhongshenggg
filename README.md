@@ -1,12 +1,11 @@
-## *Hola!* 🤠
+## *Hello There!* 😊
 
 I'm currently a Penultimate Computer Science Student at NUS. I'm a software engineer who loves working on new projects and picking up new things! 💻☕
 
 ### Here's what I'm currently working on:
 
-🍒 **My own UI library for future projects, extended via Headless + Radix!**
+🧑🏻‍💻 **Part-time Software Engineer with Lee Kuan Yew School of Public Policy (NUS) **
 
-🌶 **Picking up Spring, Go, AWS and Docker + K8s!**
 
 ### Hoping to learn...:
 
@@ -20,7 +19,8 @@ Feel free to reach out at ```loy.hong.shenggg@gmail.com```.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,docker,fastapi,py,java,react,firebase,nodejs,express,tailwind,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,firebase,nodejs,express,mongodb,tailwind,nextjs" /> <br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysqlflutter,firebase,figma,postman" />
   </a>
 </p>
 
