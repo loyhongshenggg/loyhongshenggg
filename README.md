@@ -28,4 +28,9 @@ Feel free to reach out at ```loy.hong.shenggg@gmail.com```.
 
 <br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loyhongshenggg&show_icons=true&locale=en&layout=compact" alt="loyhongshenggg" /></p>
+
+
+<br>
+
 <p align="center"><a href="https://www.linkedin.com/in/loyhongsheng"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
