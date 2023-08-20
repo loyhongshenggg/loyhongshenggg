@@ -12,8 +12,8 @@ I'm currently a Penultimate Computer Science Student at NUS and a software engin
 ### Hoping to learn...:
 
 🍇 **AWS**
-🥝 **Docker**
-📐 **Kubernetes**
+🐋 **Docker**
+☸️ **Kubernetes**
 
 Feel free to reach out at ```loy.hong.shenggg@gmail.com```.
 
