@@ -9,12 +9,6 @@ I'm currently a Penultimate Computer Science Student at NUS and a software engin
 🧑🏻‍💻 **Part-time Software Engineer at Lee Kuan Yew School of Public Policy (NUS)**
 
 
-### Hoping to learn...:
-
-🍇 **AWS**
-🐋 **Docker**
-☸️ **Kubernetes**
-
 Feel free to reach out at ```loy.hong.shenggg@gmail.com```.
 
 ### Some things I've worked with:
