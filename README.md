@@ -6,7 +6,7 @@ I'm currently a Penultimate Computer Science Student at NUS and a software engin
 
 ### Here's what I'm currently working on:
 
-🧑🏻‍💻 **Blockchain development using the XRP ledger**
+🧑🏻‍💻 **Govtech Software Engineer!**
 
 
 Feel free to reach out at ```loy.hong.shenggg@gmail.com```.
