@@ -2,7 +2,7 @@
 
 ## *Hello There!* 😊
 
-I'm currently a Penultimate Computer Science Student at NUS and a software engineer who loves working on new projects and picking up new things! 💻☕
+I'm currently a Final Year Computer Science Student at NUS and a software engineer who loves working on new projects and picking up new things! 💻☕
 
 ### Here's what I'm currently working on:
 
