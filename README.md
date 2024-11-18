@@ -6,7 +6,7 @@ I'm currently a Final Year Computer Science Student at NUS and a software engine
 
 ### Here's what I'm currently working on:
 
-🧑🏻‍💻 **Software Engineer @ GovTech**
+🧑🏻‍💻 **Software Engineer @ GovTech** <br>
 🧑🏻‍💻 **Security Engineer @ OKX (incoming)**
 
 
