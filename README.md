@@ -6,7 +6,8 @@ I'm currently a Final Year Computer Science Student at NUS and a software engine
 
 ### Here's what I'm currently working on:
 
-🧑🏻‍💻 **Govtech Software Engineer!**
+🧑🏻‍💻 **Software Engineer @ GovTech**
+🧑🏻‍💻 **Security Engineer @ OKX (incoming)**
 
 
 Feel free to reach out at ```loy.hong.shenggg@gmail.com```.
