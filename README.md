@@ -1,5 +1,4 @@
 # Hey, I'm Hong Sheng 👋
-> `while (alive) { eat(); sleep(); code(); repeat(); }`
 
 I'm a **Security Backend Engineer @ OKX** by day, and a caffeine-powered side project hoarder by night. 
 CS grad from NUS — survived 4 years, multiple hackathons, and one blockchain conference. 🎓
