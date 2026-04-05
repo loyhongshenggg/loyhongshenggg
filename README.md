@@ -47,10 +47,3 @@ CS grad from NUS — survived 4 years, multiple hackathons, and one blockchain c
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loyhongshenggg&style=flat-square&color=blue" alt="profile views" />
-</p>
-
-<p align="center"><i>⚠️ Warning: may spontaneously start talking about security vulnerabilities at dinner parties.</i></p>
